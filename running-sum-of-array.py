@@ -1,7 +1,7 @@
 from black import out
 
 
-nums = [1,2,3,4]
+nums = [1,2,3,4,1,1,1,1,1,1,1,1]
 # Expected output: [1,3,6,10]
 
 output =[]
